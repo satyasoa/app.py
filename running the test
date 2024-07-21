@@ -1,0 +1,3 @@
+#use this to run the test code 
+
+python -m unittest test_app
